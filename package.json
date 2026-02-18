@@ -2,7 +2,7 @@
   "name": "ticketera-landing",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://piumaster.github.io/ticketera/",
+  "homepage": "https://alepiumetti.github.io/ticketera-landing/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.12",
     "@chakra-ui/react": "^2.3.7",
