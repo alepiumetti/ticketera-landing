@@ -9,7 +9,7 @@ import {
   HStack,
   Icon,
 } from "@chakra-ui/react";
-import { FaDownload, FaGithub, FaBook } from "react-icons/fa";
+import { FaDownload } from "react-icons/fa";
 
 const CTA = () => {
   return (

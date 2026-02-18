@@ -9,7 +9,7 @@ import {
   Divider,
   Icon,
 } from "@chakra-ui/react";
-import { FaGithub, FaEnvelope } from "react-icons/fa";
+import { FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   return (

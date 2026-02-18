@@ -10,11 +10,8 @@ import {
   Icon,
 } from "@chakra-ui/react";
 import {
-  FaMoneyBillWave,
   FaRocket,
-  FaHeartbeat,
   FaDesktop,
-  FaGithubAlt,
 } from "react-icons/fa";
 
 const BenefitCard = ({ icon, title, description }) => (
